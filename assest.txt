@@ -1,0 +1,12 @@
+
+frontend
+<a href="https://www.flaticon.com/free-icons/canvas" title="canvas icons">Canvas icons created by Magnific - Flaticon</a>
+
+backend
+<a href="https://www.flaticon.com/free-icons/mechanic" title="mechanic icons">Mechanic icons created by Iconjam - Flaticon</a>
+
+fullstack
+<a href="https://www.flaticon.com/free-icons/full-stack" title="full stack icons">Full stack icons created by Flat Icons - Flaticon</a>
+
+arrow
+<a href="https://www.flaticon.com/free-icons/next" title="next icons">Next icons created by th studio - Flaticon</a>
