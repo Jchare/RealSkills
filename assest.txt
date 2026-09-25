@@ -10,3 +10,9 @@ fullstack
 
 arrow
 <a href="https://www.flaticon.com/free-icons/next" title="next icons">Next icons created by th studio - Flaticon</a>
+
+git add .
+git commit -m "Describe your changes"
+git push
+
+site:https://jchare.github.io/RealSkills/

@@ -3,6 +3,15 @@ body{
     
 }
 
+.navbar ul {
+    list-style-type: none; /* Removes the bullet points */
+    display: flex;         /* Forces the items onto a single horizontal line */
+    gap: 25px;             /* Adds spacing between your links */
+    padding: 15px;         /* Adds vertical padding inside the bar */
+}
+
+
+
 h1,h3,p{
     color:white
 }
