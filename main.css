@@ -1,17 +1,38 @@
 body{
-    background-color: rgb(72, 30, 78);
+    background-color: rgb(34, 10, 37);
+     color: #F8F5F9;
     
 }
 
 .navbar ul {
     list-style-type: none; /* Removes the bullet points */
     display: flex;         /* Forces the items onto a single horizontal line */
-    gap: 25px;             /* Adds spacing between your links */
+    gap: 50px;             /* Adds spacing between links */
     padding: 15px;         /* Adds vertical padding inside the bar */
 }
 
+nav a {
+    text-decoration: none;
+    color: black;
+    outline:none; /*removes outline when you click tab*/
 
-
+}
 h1,h3,p{
-    color:white
+   color: #E8DDF0;
+}
+
+.home{
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    text-align:center;
+}
+
+.home h1{
+    font-size:5rem;
+    margin-bottom:s20px;
+    color: #FFFFFF;
+    
 }
