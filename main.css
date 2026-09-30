@@ -13,7 +13,7 @@ body{
 
 nav a {
     text-decoration: none;
-    color: black;
+    color:  #b09f9f;;
     outline:none; /*removes outline when you click tab*/
 
 }
@@ -35,4 +35,19 @@ h1,h3,p{
     margin-bottom:s20px;
     color: #FFFFFF;
     
+}
+
+.link-cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.link-card {
+    width: 300px;
+    padding: 30px;
+    background-color: rgb(72, 30, 78);
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
 }
