@@ -31,11 +31,27 @@ h1,h3,p{
 }
 
 .home h1{
+   
     font-size:5rem;
-    margin-bottom:s20px;
+    margin-bottom:20px;
     color: #FFFFFF;
+
+    font-size: 5rem;
+    animation: slideUp 1s ease-out;
     
 }
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(40px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 
 .link-cards {
     display: flex;
